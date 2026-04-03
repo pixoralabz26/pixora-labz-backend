@@ -3,3 +3,4 @@ node_modules/
 .DS_Store
 logo/
 docker-compose.yml
+USE.md
