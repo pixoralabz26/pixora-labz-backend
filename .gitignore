@@ -1,6 +1,12 @@
+node_modules
 node_modules/
+dist
 .env
+*.log
 .DS_Store
+uploads/*
+!uploads/.gitkeep
+.seed
 logo/
 docker-compose.yml
 USE.md
