@@ -10,3 +10,5 @@ uploads/*
 logo/
 docker-compose.yml
 USE.md
+client/
+server/
